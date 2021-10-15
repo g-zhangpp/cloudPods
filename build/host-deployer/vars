@@ -1,0 +1,2 @@
+DESCRIPTION="Yunion Host Deploy Agent"
+SERVICE="yes"

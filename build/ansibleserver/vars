@@ -1,0 +1,5 @@
+DESCRIPTION="Yunion Ansible Controller"
+
+REQUIRES=(
+	"ansible"
+)

@@ -1,0 +1,10 @@
+policy:
+  '*':
+    '*':
+      '*': allow
+      create: deny
+      delete: deny
+      perform:
+        purge: deny
+        clone: deny
+        '*': allow
